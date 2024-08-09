@@ -1,0 +1,11 @@
+{
+  "name": "pizza_mama",
+  "version": "1.0.0",
+  "description": "Exercice pizza web app",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./wwwroot/sass/main.scss:./wwwroot/css/site.css  --style compressed"
+  },
+  "author": "",
+  "license": "ISC"
+}
